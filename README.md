@@ -10,9 +10,14 @@ If you haven't used Jupyter before, here's how to get yourself set up:
 
 https://jupyter.readthedocs.io/en/latest/install.html#new-to-python-and-jupyter
 
-Alternatively, you can try Binder, a free-to-use hosted Jupyter notebook service. Click the button below to get set up!
+Alternatively, you can try Binder, a free-to-use Jupyter notebook service.
+Click the button below to launch your own notebook.
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/TheDataShed/data-analyst-interview/master)
+Download the `.ipynb` file regularly (File > Download as) as the environment only lasts as long as your browser session and cannot be shared.
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/tatedata/data-analyst-interview/master)
+
+If you wish to use any other python libraries, you will need to launch a terminal and `pip install` your requirements.
 
 ## R
 If you'd like to use **R** to respond to this test, then if you don't know how to set it up locally, this link gives instructions:
@@ -25,7 +30,7 @@ If you would prefer to use a different tool, please feel free.
 
 It is possible to answer this test using SQL alone. If this is your preference
 
-Submissions should be returned to **{email address}** by **{date} **
+Submissions should be returned to **{email address}** by **{date}**
 
 
 # The Data
