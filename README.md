@@ -10,6 +10,10 @@ If you haven't used Jupyter before, here's how to get yourself set up:
 
 https://jupyter.readthedocs.io/en/latest/install.html#new-to-python-and-jupyter
 
+Alternatively, you can try Binder, a free-to-use hosted Jupyter notebook service. Click the button below to get set up!
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/TheDataShed/data-analyst-interview/master)
+
 ## R
 If you'd like to use **R** to respond to this test, then if you don't know how to set it up locally, this link gives instructions:
 
