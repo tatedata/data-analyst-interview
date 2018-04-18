@@ -19,10 +19,12 @@ If you would prefer to use a different tool, please feel free.
 
 ## SQL
 
-It is possible to answer this test using SQL alone. If this is your preference
+It is possible to answer this test using SQL alone. If this is your preference, please ensure your SQL is well annotated. 
 
-Submissions should be returned to **{email address}** by **{date} **
 
+# Submission
+
+Please return your code and results, but do not return the database via email (it's quite large!)
 
 # The Data
 
