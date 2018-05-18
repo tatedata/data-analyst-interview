@@ -26,7 +26,7 @@ It is possible to answer this test using SQL alone. If this is your preference, 
 
 Please return your code and results to osman.yilmaz@tate.org.uk.  
 
-The end-date for submissions is 17.00 on Wednesday 2 May 2018.  
+The end-date for submissions is midnight on Tuesday 22 May 2018.  
 
 Please do not return the database via email (it's quite large!)
 
